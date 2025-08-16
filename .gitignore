@@ -1,0 +1,17 @@
+# Файлы с токенами и паролями
+.env
+credentials.json
+
+# Виртуальное окружение
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи
+*.log
+
+# Системные файлы macOS
+.DS_Store
